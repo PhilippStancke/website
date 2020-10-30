@@ -15,22 +15,64 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
-[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "R, Python, Stata, ArcGIS, Tableau"  
+
+[[feature]]
+  icon = "microsoft"
+  icon_pack = "fab"
+  name = "Microsoft Office"
+  description = "Excel, Word, Powerpoint"
+
+[[feature]]
+  icon = "file-alt"
+  icon_pack = "fas"
+  name = "Latex"
+  description = ""
+
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "German"
+  description = "C2"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "language"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "English"
+  description = "C1.2"
+  
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "Spanish"
+  description = "C1"
+  
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "French"
+  description = "B2.2"
+  
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "Italian"
+  description = "A2"
+  
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "Portuguese"
+  description = "A2.2"
+  
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "Chinese"
+  description = "A1"
 
 # Uncomment to use emoji icons.
 # [[feature]]
