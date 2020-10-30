@@ -1,26 +1,21 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include development economics, geospatial characteristics of economics, and drug economies.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Economics
+    institution: Justus-Liebig-Universität Gießen
+    year: August 2016 - March 2021
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Economic Development
+- Data Science
+- Languages
+- Cultures
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Justus-Liebig-Universität Gießen
+  url: https://www.uni-giessen.de/
+role: Student of Economics
 social:
 - icon: envelope
   icon_pack: fas
