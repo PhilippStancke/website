@@ -4,7 +4,7 @@ education:
   courses:
   - course: BSc in Economics
     institution: Justus-Liebig-Universität Gießen
-    year: August 2016 - March 2021
+    year: 2016-2021
 email: ""
 highlight_name: false
 interests:
