@@ -30,24 +30,22 @@ experience:
   date_end: ""
   date_start: "2020-04-20"
   description: |-
-    Degree Course:
-    * Economy
+    Main Emphasis: International Economics
   location: Gießen, Germany
-  title: B.Sc. Student
+  title: Bachelor of Science - Economics
 - company: Universidad de los Andes
   company_url: ""
   date_end: "2019-12-31"
   date_start: "2018-08-05"
   description: Study Exchange
   location: Bogotá, Colombia
-  title: B.Sc. Student
+  title: Bachelor of Science - Economics
 - company: Justus-Liebig-Universität
   company_url: ""
   date_end: "2018-07-30"
   date_start: "2016-10-01"
   description: |-
-    Degree Course:
-    * Economy
+    Main Emphasis: International Economics
   location: Gießen, Germany
-  title: B.Sc. Student
+  title: Bachelor of Science - Economics
 ---
