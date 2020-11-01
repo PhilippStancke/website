@@ -32,6 +32,9 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+
+# Activate this widget? true/false
+active: false
 ---
 
 {{% alert note %}}
