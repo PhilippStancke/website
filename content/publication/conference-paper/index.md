@@ -24,7 +24,7 @@ slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example conference paper
+title: An example conference paper TEST
 url_code: '#'
 url_dataset: '#'
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
@@ -33,6 +33,9 @@ url_project: ""
 url_slides: ""
 url_source: '#'
 url_video: '#'
+
+selected = false
+
 ---
 
 {{% alert note %}}
