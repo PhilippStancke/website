@@ -1,8 +1,14 @@
 ---
-author:
-- 'Janosch Köferli & Philipp Manuel Stancke'
-title: '¿Quién pierde? Efectos de erradicación de los cultivos en el
-  desarrollo regional'
+authors: [Janosch Köferli & Philipp Manuel Stancke]
+categories: []
+date: "2019-02-05T00:00:00Z"
+slides:
+  highlight_style: dracula
+  theme: black
+summary: An introduction to using Academic's Slides feature.
+tags: []
+title: ¿Quién pierde? Efectos de erradicación de los cultivos en el
+  desarrollo regional
 ---
 
 Estructura
@@ -18,10 +24,12 @@ Estructura
     -   Externalidades con respecto a agricultores, salud pública,
         consumo de drogas y a los talibanes.
 
-Pregunta de Investigación y Relevancia Académica
+---
 
-Erradicación y DesarrolloIngresos Agrícolas **¿Por qué hay una
-preferencia por el cultivo de opio?**
+#Pregunta de Investigación y Relevancia Académica
+
+##Erradicación y Desarrollo - Ingresos Agrícolas
+**Por qué hay una preferencia por el cultivo de opio?**
 
 **Efectos de la erradicación por parte a través del ingreso:**
 
@@ -35,6 +43,8 @@ preferencia por el cultivo de opio?**
 
 -   Criminalidad
 
+---
+
 **Hipótesis:**
 
 -   **H1:** La erradicación causa el endeudamiento de los campesinos
@@ -43,8 +53,10 @@ preferencia por el cultivo de opio?**
 
 -   **H3:** La erradicación causa una disminución en la productividad de
     la tierra
+    
+---
 
-Erradicación y DesarrolloUso de Drogas
+#Erradicación y DesarrolloUso de Drogas
 
 **Hipótesis:**
 
@@ -56,7 +68,10 @@ Erradicación y DesarrolloUso de Drogas
 -   **H6:** El apoyo a la salud y los programas de tratamiento no son
     suficientemente desarrollados en Afganistán.
 
-Erradicación y DesarrolloApoyo a los Talibanes
+---
+
+#Erradicación y Desarrollo
+##Apoyo a los Talibanes
 
 **Hipótesis:**
 
@@ -67,7 +82,10 @@ Erradicación y DesarrolloApoyo a los Talibanes
 
 -   **H9:** Los Talibán ofrecen servicios de protección y seguridad.
 
-Erradicación y DesarrolloIngresos Talibanes
+---
+
+#Erradicación y Desarrollo
+##Ingresos Talibanes
 
 **Hipótesis:**
 
@@ -78,7 +96,10 @@ Erradicación y DesarrolloIngresos Talibanes
     no cambia mucho con un aumento en el precio en consecuencia de la
     escasez de opio.
 
-Erradicación y DesarrolloEfecto Global
+---
+
+#Erradicación y Desarrollo
+##Efecto Global
 
 **Hipótesis:**
 
@@ -86,7 +107,9 @@ Erradicación y DesarrolloEfecto Global
     erradicación de cultivos superan sus beneficios para el desarrollo
     local.
 
-DatosIntensidad de la Luz Nocturna
+---
+
+##Datos - Intensidad de la Luz Nocturna
 
 **¿Por qué se utiliza la intensidad de la Luz Nocturna?**
 
@@ -108,7 +131,9 @@ DatosIntensidad de la Luz Nocturna
 -   Administración Nacional Oceánica y Atmosférica (NOAA) para 1992
     hasta 2018
 
-DatosErradicación de la Adormidera
+---
+
+##Datos - Erradicación de la Adormidera
 
 -   Problema principal es el acceso a datos de erradicación al nivel
     regional
@@ -119,7 +144,9 @@ DatosErradicación de la Adormidera
     investigación con respecto a las drogas ilícita en Afganistán y
     sustentos alternativos)
 
-Marco Empírico
+---
+
+##Marco Empírico
 
 **Objetivo principal:**
 
@@ -128,6 +155,8 @@ Marco Empírico
 
 -   Relación entre cantidad de cultivos erradicados y desarrollo
     económico
+
+---
 
 **Modelo de Regresión:** $$\begin{aligned}
         Lum_{ict} = \alpha_{ic}+\beta_{ct}+\gamma * Erad_{ict-1} + X_{ct} + \varepsilon_{ict}
