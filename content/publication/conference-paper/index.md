@@ -35,7 +35,6 @@ url_source: '#'
 url_video: '#'
 
 selected = false
-
 ---
 
 {{% alert note %}}
