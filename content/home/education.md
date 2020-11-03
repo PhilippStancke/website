@@ -28,24 +28,16 @@ experience:
 - company: Justus-Liebig-Universität
   company_url: ""
   date_end: ""
-  date_start: "2020-04-20"
+  date_start: "2016-10-01"
   description: |-
     Main Emphasis: International Economics
   location: Gießen, Germany
   title: Bachelor of Science - Economics
 - company: Universidad de los Andes
   company_url: ""
-  date_end: "2019-12-31"
+  date_end: "2019-12-14"
   date_start: "2018-08-05"
   description: Study Exchange
   location: Bogotá, Colombia
-  title: Bachelor of Science - Economics
-- company: Justus-Liebig-Universität
-  company_url: ""
-  date_end: "2018-07-30"
-  date_start: "2016-10-01"
-  description: |-
-    Main Emphasis: International Economics
-  location: Gießen, Germany
   title: Bachelor of Science - Economics
 ---
