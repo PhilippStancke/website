@@ -18,8 +18,8 @@ projects:
 # publication_short: #n *STC*
 publication_types:
 - "4"
-publishDate: "2019-07-24T00:00:00Z"
-# slides: 
+publishDate: "2020-07-24T00:00:00Z"
+#slides: example
 summary: Diese Seminararbeit wurde an der Professur für Internatioanle Wirtschaftsbeziehungen (VWL III) unter der Leitung von Chistian Haas und Herr Prof. Dr. Meckl, an der Justus-Liebig-Universität Gießen geschrieben.
 tags:
 - Technological Change
