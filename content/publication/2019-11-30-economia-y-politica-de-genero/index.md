@@ -40,7 +40,6 @@ url_pdf:
 #url_video: '#'
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
 	
