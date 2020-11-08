@@ -1,9 +1,8 @@
 ---
-abstract: En primer lugar, este documento ofrece un breve resumen de las políticas de lucha contra los estupefacientes en el Afganistán. A continuación, se examinan los problemas del desarrollo económico del Afganistán y se investigan los efectos de la erradicación de cultivos en el desarrollo socioeconómico. Más concretamente, se centra en las externalidades de la erradicación en la situación económica de los agricultores, la salud pública y el consumo de drogas, así como en las implicaciones económicas y políticas para los talibanes. Además, en este documento se analiza cuantitativamente cómo la erradicación de la adormidera afecta el desarrollo a nivel regional. Este documento utiliza datos de luz nocturna para representar la actividad económica, ya que no se dispone de datos desglosados y fiables de la oficina estadística afgana.
+abstract: Im Laufe der letzten Jahrzehnte stand der technologische Fortschritt immer wieder im Fokus des wirtschaftswissenschaftlichen Diskurses, in dem die Ambivalenz der Folgen des technologischen Wandels zum Ausdruck kommt. Dabei hat sich die aktuelle Fachliteratur bereits ausgiebig mit der Auswirkung des technologischen Wandels auf die Beschäftigungsstruktur beschäftigt (Autor 2019: 3-4). Die optimistische Sichtweise betont vor allem die sich dabei auf die Möglichkeiten durch die Computerisierung und Komplementierung von physischen und intellektuellen Aufgaben, während die pessimistische Sichtweise die Gefahr eines Anstieges der Arbeitslosigkeit und der Einkommensungleichheit hervorhebt (Prettner, Geiger und Schwarzer 2018: 1). Doch besteht ein Zusammenhang zwischen dem technologischen Fortschritt und den Reallöhnen? Welche Kanäle sind hierbei von Bedeutung? Sind Heterogenitäten zwischen unterschiedlichen Regionen und Beschäftigungsgruppen zu verzeichnen? Das Ziel bei der Beantwortung dieser Fragen ist dabei, die Ergebnisse aus Autor (2019) zusammenfassen, mit der existierenden Fachliteratur zu ergänzen und kritisch zu hinterfragen.
 authors:
 - admin
-- Janosch Köferli
-date: "2019-05-14T00:00:00Z"
+date: "2020-07-24T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -19,15 +18,14 @@ projects:
 # publication_short: #n *STC*
 publication_types:
 - "4"
-publishDate: "2019-05-14T00:00:00Z"
-slides: drogas-y-politica
-summary: Diese Arbeit wurde im Rahmen des Moduls "Drogas y Política", an der Universidad de los Andes (Bogotá, Kolumbien) geschrieben.
+publishDate: "2019-07-24T00:00:00Z"
+# slides: 
+summary: Diese Seminararbeit wurde an der Professur für Internatioanle Wirtschaftsbeziehungen (VWL III) unter der Leitung von Chistian Haas und Herr Prof. Dr. Meckl, an der Justus-Liebig-Universität Gießen geschrieben.
 tags:
-- Afghanistan
-- Eradication
-- Poppy
-- Opium Wars
-title: ¿Quién pierde? Efectos de erradicación de los cultivos en el desarrollo regional
+- Technological Change
+- USA
+- Labor Market
+title: Der Zusammenhang zwischen der Reallohnpolarisierung und dem technologischen Wandel
 #url_code: '#'
 #url_dataset: '#'
 url_pdf: 
