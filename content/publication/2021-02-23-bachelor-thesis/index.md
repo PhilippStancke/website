@@ -1,9 +1,9 @@
 ---
-abstract: Este articulo se enfoca en buscar una explicación por el comportamiento de la población estadounidense por Estado en las elecciones del presidente. Nosotros analizamos factores de género que pueden haber influenciado este comportamiento.
+abstract: This paper focuses on the fundamental determinants of growth. The geography and institutions hypothesis are highlighted, and the reversal of fortune is discussed.
 authors:
 - admin
 #- Robert Ford
-date: "2019-11-30T00:00:00Z"
+date: "2021-03-22T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -19,17 +19,14 @@ projects:
 # publication_short: #n *STC*
 publication_types:
 - "4"
-publishDate: "2019-11-30T00:00:00Z"
+publishDate: "2021-03-22T00:00:00Z"
 #slides: example
-summary: Diese Arbeit wurde im Rahmen des Moduls "Economía Política de Género", an der Universidad de los Andes (Bogotá, Kolumbien) geschrieben.
+summary: This paper was written as part of the bachelor thesis at the Chair of International Economics (VWL III) at Justus Liebig University.
 tags:
-- Women's March
-- USA
-- Donald Trump
-- Elections
-- 2017
-- Politics
-title: El ambiente político y los resultados de las elecciones estadounidenses
+- Geography
+- Institutions
+- Economic Growth
+title: The Roots of Economic Growth: Geography and Institutions
 #url_code: '#'
 #url_dataset: '#'
 url_pdf: 
