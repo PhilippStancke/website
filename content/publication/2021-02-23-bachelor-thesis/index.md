@@ -19,7 +19,7 @@ projects:
 publication_types:
 - "4"
 publishDate: "2021-03-22T00:00:00Z"
-slides: example
+#slides: example
 summary: This paper was written as part of the bachelor thesis at the Chair of International Economics (VWL III) at Justus Liebig University.
 tags:
 - Geography
