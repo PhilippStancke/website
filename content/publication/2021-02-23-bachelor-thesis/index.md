@@ -1,9 +1,8 @@
 ---
-abstract: En primer lugar, este documento ofrece un breve resumen de las políticas de lucha contra los estupefacientes en el Afganistán. A continuación, se examinan los problemas del desarrollo económico del Afganistán y se investigan los efectos de la erradicación de cultivos en el desarrollo socioeconómico. Más concretamente, se centra en las externalidades de la erradicación en la situación económica de los agricultores, la salud pública y el consumo de drogas, así como en las implicaciones económicas y políticas para los talibanes. Además, en este documento se analiza cuantitativamente cómo la erradicación de la adormidera afecta el desarrollo a nivel regional. Este documento utiliza datos de luz nocturna para representar la actividad económica, ya que no se dispone de datos desglosados y fiables de la oficina estadística afgana.
+abstract: This paper focuses on the fundamental determinants of growth. The geography and institutions hypothesis are highlighted, and the reversal of fortune is discussed.
 authors:
 - admin
-- Janosch Köferli
-date: "2019-05-14T00:00:00Z"
+date: "2021-03-22T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -19,15 +18,14 @@ projects:
 # publication_short: #n *STC*
 publication_types:
 - "4"
-publishDate: "2019-05-14T00:00:00Z"
+publishDate: "2021-03-22T00:00:00Z"
 slides: drogas-y-politica
-summary: Diese Arbeit wurde im Rahmen des Moduls "Drogas y Política", an der Universidad de los Andes (Bogotá, Kolumbien) geschrieben.
+summary: This paper was written as part of the bachelor thesis at the Chair of International Economics (VWL III) at Justus Liebig University.
 tags:
-- Afghanistan
-- Eradication
-- Poppy
-- Opium Wars
-title: ¿Quién pierde? Efectos de erradicación de los cultivos en el desarrollo regional
+- Geography
+- Institutions
+- Economic Growth
+title: The Roots of Economic Growth: Geography and Institutions
 #url_code: '#'
 #url_dataset: '#'
 url_pdf: 
