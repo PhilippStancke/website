@@ -17,7 +17,7 @@ projects:
 # publication: In *Source Themes Conference*
 # publication_short: #n *STC*
 publication_types:
-- "4"
+- "5"
 publishDate: "2021-03-22T00:00:00Z"
 slides: drogas-y-politica
 summary: This paper was written as part of the bachelor thesis at the Chair of International Economics (VWL III) at Justus Liebig University.
