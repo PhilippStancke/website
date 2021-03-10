@@ -42,7 +42,7 @@ subtitle = ""
   icon = "language"
   icon_pack = "fas"
   name = "English"
-  description = "C1.2"
+  description = "C1.2 (UNIcert III)"
   
 [[feature]]
   icon = "language"
@@ -60,7 +60,7 @@ subtitle = ""
   icon = "language"
   icon_pack = "fas"
   name = "Italian"
-  description = "A2"
+  description = "B1 (UNIcert I)"
   
 [[feature]]
   icon = "language"

@@ -27,7 +27,7 @@ tags:
 - Eradication
 - Poppy
 - Opium Wars
-title: ¿Quién pierde? Efectos de erradicación de los cultivos en el desarrollo regional
+title: ¿Quién pierde? Efectos de la erradicación de cultivos en el desarrollo regional
 #url_code: '#'
 #url_dataset: '#'
 url_pdf: 
@@ -37,4 +37,3 @@ url_pdf:
 #url_source: '#'
 #url_video: '#'
 ---
-

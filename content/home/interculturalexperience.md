@@ -10,9 +10,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 45
+weight: 50
 
-title: Education
+title: Intercultural Experience
 subtitle:
 
 # Date format
@@ -25,18 +25,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
-- company: Justus-Liebig-University
+- company: Universidad de los Andes
   company_url: ""
-  date_end: ""
-  date_start: "2021-04-01"
+  date_end: "2019-12-14"
+  date_start: "2018-08-05"
   description: |-
-  location: Gießen, Germany
-  title: M.Sc. in Economics
-- company: Justus-Liebig-University
+  location: Bogotá, Colombia
+  title: B.Sc. Study Exchange in Economics
+- company: Evangelical Lutheran Mission in Lower Saxony (ELM)
   company_url: ""
-  date_end: "2021-03-31"
-  date_start: "2016-10-01"
+  date_end: "2016-08-01"
+  date_start: "2015-08-01"
   description: |-
-  location: Gießen, Germany
-  title: B.Sc. in Economics
+  location: Concepción, Chile
+  title: Voluntary Service
 ---

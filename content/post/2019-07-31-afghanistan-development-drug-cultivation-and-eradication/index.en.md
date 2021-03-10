@@ -1,5 +1,5 @@
 ---
-title: Afghanistan Development, Drug Cultivation and Eradication
+title: 
 author: Philipp M. Stancke
 date: '2019-07-31'
 slug: afghanistan-development-drug-cultivation-and-eradication
@@ -18,3 +18,7 @@ image:
   preview_only: no
 projects: []
 ---
+
+{{< spoiler text="Click to view the spoiler" >}}
+You found me!
+{{< /spoiler >}}
