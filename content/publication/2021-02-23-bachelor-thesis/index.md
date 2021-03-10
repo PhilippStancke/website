@@ -2,7 +2,7 @@
 abstract: This paper focuses on the fundamental determinants of growth. The geography and institutions hypothesis are highlighted, and the reversal of fortune is discussed.
 authors:
 - admin
-date: "2021-03-22T00:00:00Z"
+date: "2021-02-22T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -18,7 +18,7 @@ publication: In *Source Themes Conference*
 publication_short: #n *STC*
 publication_types:
 - "4"
-publishDate: "2021-03-22T00:00:00Z"
+publishDate: "2021-02-22T00:00:00Z"
 #slides: example
 summary: 'This paper was written as part of the bachelor thesis at the Chair of International Economics (VWL III) at Justus Liebig University.'
 tags:
