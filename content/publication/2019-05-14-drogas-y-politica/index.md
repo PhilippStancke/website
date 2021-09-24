@@ -21,13 +21,14 @@ publication_types:
 - "4"
 publishDate: "2019-05-14T00:00:00Z"
 slides: drogas-y-politica
-summary: Diese Arbeit wurde im Rahmen des Moduls "Drogas y Política", an der Universidad de los Andes (Bogotá, Kolumbien) geschrieben.
+summary: This thesis was written as part of the module "Drogas y Política", at the Universidad de los Andes (Bogotá, Colombia).
+#Diese Arbeit wurde im Rahmen des Moduls "Drogas y Política", an der Universidad de los Andes (Bogotá, Kolumbien) geschrieben.
 tags:
 - Afghanistan
 - Eradication
 - Poppy
 - Opium Wars
-title: ¿Quién pierde? Efectos de la erradicación de cultivos en el desarrollo regional
+title: ¿Quién pierde? Efectos de la erradicación de cultivos en el desarrollo regional (ESP)
 #url_code: '#'
 #url_dataset: '#'
 url_pdf: 

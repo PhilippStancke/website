@@ -21,7 +21,7 @@ publication_types:
 - "4"
 publishDate: "2019-11-30T00:00:00Z"
 #slides: example
-summary: Diese Arbeit wurde im Rahmen des Moduls "Economía Política de Género", an der Universidad de los Andes (Bogotá, Kolumbien) geschrieben.
+summary: This thesis was written as part of the module "Economía Política de Género", at the Universidad de los Andes (Bogotá, Colombia).
 tags:
 - Women's March
 - USA
@@ -29,7 +29,8 @@ tags:
 - Elections
 - 2017
 - Politics
-title: El ambiente político y los resultados de las elecciones estadounidenses
+title: The political environment and the results of the U.S. elections (ESP)
+#El ambiente político y los resultados de las elecciones estadounidenses
 #url_code: '#'
 #url_dataset: '#'
 url_pdf: 
