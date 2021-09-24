@@ -4,13 +4,13 @@
 widget: experience
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 10
 
 title: Experience
 subtitle:
@@ -25,17 +25,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
-# - company: GenCoin
-#   company_url: ""
-#   date_end: ""
-#   date_start: "2017-01-01"
-#   description: |-
-#     Responsibilities include:
-#     * Analysing
-#     * Modelling
-#     * Deploying
-#   location: California
-#   title: CEO
+- company: Kreditanstalt für Wiederaufbau (KfW), Frankfurt
+  company_url: ""
+  date_end: ""
+  date_start: "2021-05-17"
+  description: |-
+  Responsibilities include:
+     * Analysing
+     * Modelling
+     * Deploying
+  location: Frankfurt
+  title: Intern
 # - company: University X
 #   company_url: ""
 #   date_end: "2016-12-31"
