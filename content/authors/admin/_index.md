@@ -1,5 +1,5 @@
 ---
-bio: My research interests include development economics, geospatial characteristics of economics, and drug economies.
+bio: My research interests include data science, development economics and geospatial characteristics of economics.
 education:
   courses:
   - course: M.Sc. in Economics
@@ -41,6 +41,6 @@ user_groups:
 - Principal Investigators
 ---
 
-Philipp Manuel Stancke is a student of economics at the Justus-Liebig-Universität Gießen. His research interests include Development Economics.
+Philipp Manuel Stancke is a student of economics at the Justus-Liebig-Universität Gießen.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
