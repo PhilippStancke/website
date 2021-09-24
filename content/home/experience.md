@@ -36,11 +36,4 @@ experience:
      * Deploying
   location: Frankfurt
   title: Intern
-# - company: University X
-#   company_url: ""
-#   date_end: "2016-12-31"
-#   date_start: "2016-01-01"
-#   description: Taught electronic engineering and researched semiconductor physics.
-#   location: California
-#   title: Professor
 ---
