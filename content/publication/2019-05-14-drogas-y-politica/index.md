@@ -28,7 +28,8 @@ tags:
 - Eradication
 - Poppy
 - Opium Wars
-title: ¿Quién pierde? Efectos de la erradicación de cultivos en el desarrollo regional (ESP)
+title: Who loses? Effects of crop eradication on regional development (ESP)
+# ¿Quién pierde? Efectos de la erradicación de cultivos en el desarrollo regional (ESP)
 #url_code: '#'
 #url_dataset: '#'
 url_pdf: 
